@@ -2,7 +2,7 @@ import React from 'react'
 
 function Login() {
     return (
-        <div>
+        <div className='logins'>
             <form className="login-form">
                 <div>
                     <label htmlFor="email-login">email:</label>
